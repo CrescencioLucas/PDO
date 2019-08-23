@@ -19,7 +19,7 @@
 
             <tr>
                 <td><p><strong>Ano de fabricação:</strong></p></td>
-                <td><input type="text" name="ano_fabricante" size="30" /></td>
+                <td><input type="text" name="ano_fabricacao" size="30" /></td>
             </tr>
 
             <tr>
